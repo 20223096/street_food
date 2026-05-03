@@ -3,6 +3,7 @@
 
 # Node (Next.js workspace)
 node_modules/
+.next
 next/.next/
 next/out/
 
