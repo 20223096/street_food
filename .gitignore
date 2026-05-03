@@ -1,6 +1,11 @@
 # Secrets
 .env
 
+# Node (Next.js workspace)
+node_modules/
+next/.next/
+next/out/
+
 # Flutter
 .dart_tool/
 .flutter-plugins

@@ -1,0 +1,13 @@
+{
+  "name": "street-food",
+  "private": true,
+  "workspaces": [
+    "next"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w street-food-web",
+    "build": "npm run build -w street-food-web",
+    "start": "npm run start -w street-food-web",
+    "lint": "npm run lint -w street-food-web"
+  }
+}
